@@ -18,7 +18,7 @@
   var left = (screen.width / 2) - (w / 2);
   var top = (screen.height / 2) - (h / 2);
 
-  var $shareQuestion = $(".share-question");
+  var $shareQuestion = $(".share-us");
   var shareUrl = 'http://scrietossdg.github.io';
   var $fbShare = $(".share-fb");
   var $twtShare = $(".share-twt");
