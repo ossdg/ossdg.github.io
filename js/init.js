@@ -7,7 +7,6 @@
     var $fixBtn = $('.fix-btn');
 
     $fixBtn.on('click', function(ev) {
-      ev.preventDefault();
       $share.toggle();
     });
 
